@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OS 10.6+ |
+| **Processor** | Intel Core 2 Duo E6320 (2*1866) or equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | GeForce 7600 GS (512 MB) or equivalent | Metal-capable GPU |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 or later | Windows 7 or later |
 
 ---
 
